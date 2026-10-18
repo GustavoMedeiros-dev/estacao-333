@@ -6,7 +6,7 @@
 
 A pixel-art point-and-click detective game that runs entirely in the browser.
 
-[![Play now](https://img.shields.io/badge/▶_Play_now-GitHub_Pages-e8b04a?style=for-the-badge)](https://YOUR-USERNAME.github.io/estacao-333/)
+[![Play now](https://img.shields.io/badge/▶_Play_now-GitHub_Pages-e8b04a?style=for-the-badge)](https://GustavoMedeiros-dev.github.io/estacao-333/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -80,12 +80,12 @@ After all three cases are solved, the station's clock starts ticking again…
 
 ### Play online
 
-Open the **[live version on GitHub Pages](https://YOUR-USERNAME.github.io/estacao-333/)**.
+Open the **[live version on GitHub Pages](https://GustavoMedeiros-dev.github.io/estacao-333/)**.
 
 ### Play locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/estacao-333.git
+git clone https://github.com/GustavoMedeiros-dev/estacao-333.git
 cd estacao-333
 ```
 
@@ -154,7 +154,7 @@ Every case implements the same **contract** (`enterFresh`, `tick`, `draw`, `prog
 
 This is our first project, and we would really like to hear what you think!
 
-- 🐛 Found a bug? [Open an issue](https://github.com/YOUR-USERNAME/estacao-333/issues)
+- 🐛 Found a bug? [Open an issue](https://github.com/GustavoMedeiros-dev/estacao-333/issues)
 - ⭐ Enjoyed the game? Leave a star on the repository
 
 ## 👥 Team
