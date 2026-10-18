@@ -6,7 +6,7 @@
 
 Jogo de investigação point-and-click em pixel art, que roda direto no navegador.
 
-[![Jogar agora](https://img.shields.io/badge/▶_Jogar_agora-GitHub_Pages-e8b04a?style=for-the-badge)](https://SEU-USUARIO.github.io/estacao-333/)
+[![Jogar agora](https://img.shields.io/badge/▶_Jogar_agora-GitHub_Pages-e8b04a?style=for-the-badge)](https://GustavoMedeiros-dev/estacao-333/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -78,12 +78,12 @@ Depois que os três casos são resolvidos, o relógio da estação volta a andar
 
 ### Jogar online
 
-Acesse a **[versão publicada no GitHub Pages](https://SEU-USUARIO.github.io/estacao-333/)**.
+Acesse a **[versão publicada no GitHub Pages](https://GustavoMedeiros-dev/estacao-333/)**.
 
 ### Jogar no computador
 
 ```bash
-git clone https://github.com/SEU-USUARIO/estacao-333.git
+git clone https://github.com/GustavoMedeiros-dev/estacao-333.git
 cd estacao-333
 ```
 
@@ -152,7 +152,7 @@ Todos os casos seguem o mesmo **contrato** (`enterFresh`, `tick`, `draw`, `progr
 
 Este é o nosso primeiro projeto, e a gente quer muito saber o que você achou!
 
-- 🐛 Encontrou um bug? [Abra uma issue](https://github.com/SEU-USUARIO/estacao-333/issues)
+- 🐛 Encontrou um bug? [Abra uma issue](https://github.com/GustavoMedeiros-dev/estacao-333/issues)
 - ⭐ Gostou do jogo? Deixe uma estrela no repositório
 
 ## 👥 Equipe
