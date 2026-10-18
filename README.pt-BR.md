@@ -6,7 +6,7 @@
 
 Jogo de investigação point-and-click em pixel art, que roda direto no navegador.
 
-[![Jogar agora](https://img.shields.io/badge/▶_Jogar_agora-GitHub_Pages-e8b04a?style=for-the-badge)](https://GustavoMedeiros-dev/estacao-333/)
+[![Jogar agora](https://img.shields.io/badge/▶_Jogar_agora-GitHub_Pages-e8b04a?style=for-the-badge)](https://GustavoMedeiros-dev.github.io/estacao-333/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
